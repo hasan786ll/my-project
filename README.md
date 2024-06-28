@@ -10,6 +10,7 @@ this repo was created by hasan suhail qasem abuwezza
 1.. git config global user.name/emil
 perpous: to configure the email and username in git aand github
 this is done by creating an email and username at the github websit
+
 2.. git clear, to clear the git bash
 3.. git checkout master/hasan7, to switch between branches
 4.git merge "branch naame" , to merge every branch into oneز
